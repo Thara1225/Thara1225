@@ -14,7 +14,7 @@
 - 💡 Enthusiastic about **Web Development, UI/UX, Full-Stack Development & Cybersecurity**
 - 🌱 Currently learning **Full-Stack Development, Frameworks & Cybersecurity** 🛡️
 - 💬 Ask me about **Java, C++, Python, React.js, Node.js & Databases**
-- 📫 Reach me at **tharasarilakruwani@gmail.com**
+- 📫 Reach me at **tharasari5@gmail.com**
 - ⚡ Fun fact: I think I'm funny 😆
 
 ---
