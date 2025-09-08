@@ -10,7 +10,7 @@
 ---
 
 ### 🔹 About Me:
-- 🎓 Software Engineering Undergraduate (1st Year, 2nd Semester) from Sri Lanka 🇱🇰
+- 🎓 Software Engineering Undergraduate (2nd Year, 2nd Semester) from Sri Lanka 🇱🇰
 - 💡 Enthusiastic about **Web Development, UI/UX, Full-Stack Development & Cybersecurity**
 - 🌱 Currently learning **Full-Stack Development, Frameworks & Cybersecurity** 🛡️
 - 💬 Ask me about **Java, C++, Python, React.js, Node.js & Databases**
